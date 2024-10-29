@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi mate, welcome to my gh profile!
 
-<!--
-**oleggabanov/oleggabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current skills:
+<p align="flex-end"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,linux"/></br>
+    <img src="https://skillicons.dev/icons?i=sqlite,docker,html,css,javascript" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Shaldonchik statistics: 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=oleggabanov&theme=highcontrast&border_radius=8&hide_border=true)
